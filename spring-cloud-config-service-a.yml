@@ -1,6 +1,2 @@
-# spring-cloud-config-service-a.yml
-spring:
-  application:
-    name: spring-cloud-config-service-a
 service:
   greeting: "Hello from Service A (dev)"
