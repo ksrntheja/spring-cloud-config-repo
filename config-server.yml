@@ -1,0 +1,12 @@
+# config-server.yml
+spring:
+  application:
+    name: spring-cloud-config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/ksrntheja/spring-cloud-config-repo.git
+
+server:
+  port: 8888
