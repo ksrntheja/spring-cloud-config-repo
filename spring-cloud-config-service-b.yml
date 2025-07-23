@@ -1,0 +1,6 @@
+# spring-cloud-config-service-b.yml
+spring:
+  application:
+    name: spring-cloud-config-service-b
+service:
+  greeting: "Greetings from Service B (prod)"
