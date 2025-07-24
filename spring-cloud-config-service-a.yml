@@ -1,2 +1,4 @@
+server:
+  port: 8081
 service:
   greeting: "Hello from Service A (development)"
