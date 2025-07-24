@@ -1,4 +1,4 @@
 server:
   port: 8081
 service:
-  greeting: "Hello from Service A (Development)"
+  greeting: "Hello from Service A (Development Env)"
