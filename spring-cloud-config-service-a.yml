@@ -1,2 +1,2 @@
 service:
-  greeting: "Hello from Service A (dev)"
+  greeting: "Hello from Service A (development)"
